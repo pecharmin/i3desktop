@@ -1,0 +1,44 @@
+urxvt*background: gray10
+urxvt*foreground: #ededed
+urxvt*saveLines: 65535
+urxvt*color0: gray10
+urxvt*color8: black
+! red light/dark
+urxvt*color1: #ec3939
+urxvt*color9: #d13232
+! green light/dark
+urxvt*color2: #5dc838
+urxvt*color10: #47982b
+! yellow light/dark
+urxvt*color3: #e4e646
+urxvt*color11: #e5da35
+! blue light/dark
+urxvt*color4: #4677e6
+urxvt*color12: #3265d8
+! magenta light/dark
+urxvt*color5: #ce20ee
+urxvt*color13: #bb1dd8
+! cyan light/dark
+urxvt*color6: #2cc4e5
+urxvt*color14: #1cb2e5
+! Copy'n'Paste
+urxvt*cutchars: |$,*#{}()[]<>=:;"'`‘’
+! Fonts
+URxvt.font:     xft:Terminus:size=9
+URxvt.boldFont: xft:Terminus:bold:size=9
+urxvt*letterSpace: -0.5
+urxvt*perl-ext-common: font-size
+urxvt*font-size.step: 0.5
+urxvt*keysym.C-Up: font-size:increase
+urxvt*keysym.C-Down: font-size:decrease
+urxvt*keysym.C-S-Up: font-size:incglobal
+urxvt*keysym.C-S-Down: font-size:decglobal
+! Scrolling
+urxvt*secondaryScreen: 1
+urxvt*secondaryScroll: 0
+urxvt*jumpScroll: 1
+urxvt*scrollBar: 1
+urxvt*scrollstyle: plain
+urxvt*scrollBar_right: 1
+urxvt*scrollColor: #3265d8
+urxvt*thickness: 3

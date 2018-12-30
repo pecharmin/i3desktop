@@ -1,0 +1,30 @@
+{
+    "com.github.pywkm.ulauncher-spotify": {
+        "url": "https://github.com/pywkm/ulauncher-spotify", 
+        "last_commit_time": "2018-07-04T21:57:46Z", 
+        "last_commit": "855786b17469d246771e590387f5eacd8496ccd2", 
+        "id": "com.github.pywkm.ulauncher-spotify", 
+        "updated_at": "2018-11-16T23:39:50.570964"
+    }, 
+    "com.github.jasdent.ulauncher-snip": {
+        "url": "https://github.com/Jasdent/ulauncher-snip", 
+        "last_commit_time": "2018-11-02T11:29:04Z", 
+        "last_commit": "10c293243ea93a799f460a9e6f62a3fb2863b59b", 
+        "id": "com.github.jasdent.ulauncher-snip", 
+        "updated_at": "2018-11-16T23:24:47.515436"
+    }, 
+    "com.github.yegorf1.ulauncher-translator": {
+        "url": "https://github.com/yegorf1/ulauncher-translator", 
+        "last_commit_time": "2018-08-26T23:21:25Z", 
+        "last_commit": "c80a4bc3ecdbd559f79b08c3b7c118663610f5b0", 
+        "id": "com.github.yegorf1.ulauncher-translator", 
+        "updated_at": "2018-11-16T23:36:02.521249"
+    }, 
+    "com.github.friday.ulauncher-hash2": {
+        "url": "https://github.com/friday/ulauncher-hash2", 
+        "last_commit_time": "2018-09-24T20:54:25Z", 
+        "last_commit": "bdfe7cf1a13e2fcba2572acbfd99646fb7a67ef7", 
+        "id": "com.github.friday.ulauncher-hash2", 
+        "updated_at": "2018-11-16T23:24:14.585885"
+    }
+}

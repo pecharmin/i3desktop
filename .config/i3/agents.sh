@@ -1,4 +1,4 @@
 #!/bin/bash
 ssh-agent -k
 pkill ssh-agent
-ssh-agent > ~/.bash_ssh-agent
+ssh-agent > ~/.bashrc_ssh-agent

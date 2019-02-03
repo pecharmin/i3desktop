@@ -1,0 +1,9 @@
+[user]
+        name = Armin Pech
+        email = github@arminpech.de
+[color]
+        ui = auto
+[alias]
+	st = status
+	co = checkout
+	br = branch

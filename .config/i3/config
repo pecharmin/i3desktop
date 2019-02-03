@@ -15,7 +15,7 @@ exec setxkbmap -option ctrl:nocaps
 exec ~/.config/i3/hostspecific.sh
 exec ~/.config/i3/agents.sh
 exec urxvtd -q -o -f
-exec autocutsel -f
+exec parcellite --no-icon
 exec nm-applet
 exec ulauncher --hide-window
 exec redshift -l 51:7

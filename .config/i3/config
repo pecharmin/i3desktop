@@ -65,6 +65,7 @@ bindsym $mod+d kill
 #bindsym $mod+c exec --no-startup-id i3-dmenu-desktop
 
 bindsym $mod+p exec pcmanfm
+bindsym $mod+q exec xscreensaver-command -lock
 
 # change focus
 bindsym $mod+j focus left

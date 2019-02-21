@@ -121,3 +121,5 @@ ssh-add &> /dev/null
 eval $(gpg-agent --daemon &> /dev/null)
 
 [ -e ~/.bashrc_${HOSTNAME} ] && source ~/.bashrc_${HOSTNAME} >/dev/null
+
+export PATH=~/.local/bin:$PATH

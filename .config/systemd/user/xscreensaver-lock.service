@@ -1,0 +1,9 @@
+[Unit]
+Description=xscreensaver locking
+Before=sleep.target
+
+[Service]
+ExecStart=/usr/bin/xscreensaver-command -lock
+
+[Install]
+WantedBy=sleep.target

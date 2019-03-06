@@ -1,30 +1,44 @@
 {
+    "com.github.noam09.ulauncher-remmina": {
+        "url": "https://github.com/noam09/ulauncher-remmina", 
+        "last_commit_time": "2018-12-20T14:34:08Z", 
+        "last_commit": "41fd08e14efb5f2cab6f4a1bd91f41ec924346a8", 
+        "id": "com.github.noam09.ulauncher-remmina", 
+        "updated_at": "2019-03-06T21:01:35.479116"
+    }, 
+    "com.github.friday.ulauncher-hash2": {
+        "url": "https://github.com/friday/ulauncher-hash2", 
+        "last_commit_time": "2018-12-17T00:04:24Z", 
+        "id": "com.github.friday.ulauncher-hash2", 
+        "updated_at": "2019-03-05T21:36:57.683207", 
+        "last_commit": "8a35695831e83bca20ed3a82965f9e22d2e93d29"
+    }, 
+    "com.github.yegorf1.ulauncher-translator": {
+        "url": "https://github.com/yegorf1/ulauncher-translator", 
+        "last_commit_time": "2018-08-26T23:21:25Z", 
+        "id": "com.github.yegorf1.ulauncher-translator", 
+        "updated_at": "2019-03-05T21:36:53.336468", 
+        "last_commit": "c80a4bc3ecdbd559f79b08c3b7c118663610f5b0"
+    }, 
     "com.github.pywkm.ulauncher-spotify": {
         "url": "https://github.com/pywkm/ulauncher-spotify", 
         "last_commit_time": "2018-07-04T21:57:46Z", 
-        "last_commit": "855786b17469d246771e590387f5eacd8496ccd2", 
         "id": "com.github.pywkm.ulauncher-spotify", 
-        "updated_at": "2018-11-16T23:39:50.570964"
+        "updated_at": "2019-03-05T21:36:42.589052", 
+        "last_commit": "855786b17469d246771e590387f5eacd8496ccd2"
     }, 
     "com.github.jasdent.ulauncher-snip": {
         "url": "https://github.com/Jasdent/ulauncher-snip", 
         "last_commit_time": "2018-11-02T11:29:04Z", 
         "last_commit": "10c293243ea93a799f460a9e6f62a3fb2863b59b", 
         "id": "com.github.jasdent.ulauncher-snip", 
-        "updated_at": "2018-11-16T23:24:47.515436"
+        "updated_at": "2019-03-06T21:27:00.335386"
     }, 
-    "com.github.yegorf1.ulauncher-translator": {
-        "url": "https://github.com/yegorf1/ulauncher-translator", 
-        "last_commit_time": "2018-08-26T23:21:25Z", 
-        "last_commit": "c80a4bc3ecdbd559f79b08c3b7c118663610f5b0", 
-        "id": "com.github.yegorf1.ulauncher-translator", 
-        "updated_at": "2018-11-16T23:36:02.521249"
-    }, 
-    "com.github.friday.ulauncher-hash2": {
-        "url": "https://github.com/friday/ulauncher-hash2", 
-        "last_commit_time": "2018-09-24T20:54:25Z", 
-        "last_commit": "bdfe7cf1a13e2fcba2572acbfd99646fb7a67ef7", 
-        "id": "com.github.friday.ulauncher-hash2", 
-        "updated_at": "2018-11-16T23:24:14.585885"
+    "com.github.brpaz.ulauncher-docker": {
+        "url": "https://github.com/brpaz/ulauncher-docker", 
+        "last_commit_time": "2019-02-03T15:12:27Z", 
+        "last_commit": "1cd3bc3b386197c48713b9973ce3504855b1770b", 
+        "id": "com.github.brpaz.ulauncher-docker", 
+        "updated_at": "2019-03-06T20:53:43.988280"
     }
 }

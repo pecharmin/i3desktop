@@ -1,1 +1,11 @@
-{}
+{
+    "98cd2112-3c96-4ffd-b9fe-ec6cd246dc00": {
+        "added": 1551989626.464882, 
+        "name": "Screenshop", 
+        "keyword": "snip", 
+        "cmd": "~/.local/bin/screenshot.sh %s", 
+        "is_default_search": false, 
+        "id": "98cd2112-3c96-4ffd-b9fe-ec6cd246dc00", 
+        "icon": null
+    }
+}

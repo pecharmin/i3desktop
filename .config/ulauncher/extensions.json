@@ -13,13 +13,6 @@
         "updated_at": "2019-03-05T21:36:57.683207", 
         "last_commit": "8a35695831e83bca20ed3a82965f9e22d2e93d29"
     }, 
-    "com.github.yegorf1.ulauncher-translator": {
-        "url": "https://github.com/yegorf1/ulauncher-translator", 
-        "last_commit_time": "2018-08-26T23:21:25Z", 
-        "id": "com.github.yegorf1.ulauncher-translator", 
-        "updated_at": "2019-03-05T21:36:53.336468", 
-        "last_commit": "c80a4bc3ecdbd559f79b08c3b7c118663610f5b0"
-    }, 
     "com.github.pywkm.ulauncher-spotify": {
         "url": "https://github.com/pywkm/ulauncher-spotify", 
         "last_commit_time": "2018-07-04T21:57:46Z", 
@@ -27,12 +20,12 @@
         "updated_at": "2019-03-05T21:36:42.589052", 
         "last_commit": "855786b17469d246771e590387f5eacd8496ccd2"
     }, 
-    "com.github.jasdent.ulauncher-snip": {
-        "url": "https://github.com/Jasdent/ulauncher-snip", 
-        "last_commit_time": "2018-11-02T11:29:04Z", 
-        "last_commit": "10c293243ea93a799f460a9e6f62a3fb2863b59b", 
-        "id": "com.github.jasdent.ulauncher-snip", 
-        "updated_at": "2019-03-06T21:27:00.335386"
+    "com.github.yegorf1.ulauncher-translator": {
+        "url": "https://github.com/yegorf1/ulauncher-translator", 
+        "last_commit_time": "2018-08-26T23:21:25Z", 
+        "id": "com.github.yegorf1.ulauncher-translator", 
+        "updated_at": "2019-03-05T21:36:53.336468", 
+        "last_commit": "c80a4bc3ecdbd559f79b08c3b7c118663610f5b0"
     }, 
     "com.github.brpaz.ulauncher-docker": {
         "url": "https://github.com/brpaz/ulauncher-docker", 

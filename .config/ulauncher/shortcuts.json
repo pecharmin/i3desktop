@@ -3,16 +3,16 @@
         "added": 1552032040.463122, 
         "name": "Screenlayout", 
         "keyword": "layout", 
-        "cmd": "~/.local/bin/screenlayout.sh %s", 
+        "cmd": "#!/bin/bash\n~/.screenlayout/$HOSTNAME/$1.sh", 
         "is_default_search": false, 
         "id": "605aa92d-3d58-4e26-b789-1ff0b52ce996", 
         "icon": null
     }, 
     "98cd2112-3c96-4ffd-b9fe-ec6cd246dc00": {
         "added": 1551989626.464882, 
-        "name": "Screenshop", 
+        "name": "Screenshot", 
         "keyword": "snip", 
-        "cmd": "~/.local/bin/screenshot.sh %s", 
+        "cmd": "#!/bin/bash\ngnome-screenshot -f ~/images/screenshot-$(date +%Y%m%d_%H%M%S).png $@", 
         "is_default_search": false, 
         "id": "98cd2112-3c96-4ffd-b9fe-ec6cd246dc00", 
         "icon": null

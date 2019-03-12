@@ -19,6 +19,7 @@ exec parcellite --no-icon
 exec nm-applet
 exec ulauncher --hide-window
 exec redshift -l 51:7
+exec feh --bg-scale ~/.config/i3/background.png
 
 set $mod Mod4
 
